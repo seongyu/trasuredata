@@ -1,0 +1,12 @@
+fullName: "+nasdaq_analysis+task2"
+state: "success"
+result:
+  subtaskConfig: {}
+  exportParams: {}
+  resetStoreParams: []
+  storeParams:
+    td:
+      last_job_id: "171067850"
+  report:
+    inputs: []
+    outputs: []
